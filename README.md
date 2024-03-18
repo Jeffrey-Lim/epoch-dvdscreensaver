@@ -1,6 +1,6 @@
 # Team Epoch DVD Screensaver 📀
 
-[![Epoch](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/Jeffrey-Lim/epoch-dvdscreensaver/master/badge.json)](https://teamepoch.ai/)
+[![Epoch](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FJeffrey-Lim%2Fepoch-dvdscreensaver%2Fmaster%2Fbadge.json&logoColor=white)](https://teamepoch.ai/)
 
 The DVD screensaver but it's the [Team Epoch](https://teamepoch.ai/) logo.
 
